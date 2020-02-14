@@ -1,5 +1,6 @@
 {
   "version": "0.9.0",
+  "repository": "github:andres-valdes/match-ts",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
